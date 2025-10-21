@@ -17,8 +17,9 @@ export default function Home() {
       <nav className="fixed top-0 left-0 right-0 z-50 bg-black/50 backdrop-blur-md">
         <div className="max-w-6xl mx-auto px-5 flex items-center justify-between h-16">
           {/* لوگو / نام */}
-          <div className="text-white font-bold text-lg">
-            MhmdNsr <span className="text-yellow-400">– Full-Stack Wizardry 🧙</span>
+          <div className="text-white font-bold text-lg leading-tight">
+            MhmdNsr
+            <div className="text-yellow-400 text-base">Full-Stack Wizardry 🧙</div>
           </div>
 
           {/* دسکتاپ منو */}
