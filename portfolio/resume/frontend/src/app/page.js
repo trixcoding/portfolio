@@ -1,3 +1,4 @@
+'use client';
 import BackToTop from "./components/BackToTop";
 import ExperienceTimeline from "./components/ExperienceTimeline";
 import FAQ from "./components/FAQ";
