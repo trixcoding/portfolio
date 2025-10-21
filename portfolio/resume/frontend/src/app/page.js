@@ -19,12 +19,7 @@ export default function Home() {
       <nav className="fixed top-6 left-0 right-0 z-50">
         <div className="max-w-6xl mx-auto px-5">
           <div className="glass flex items-center justify-between px-5 py-3">
-            <span className="font-bold tracking-tight text-white text-m">MhmdNsr<br/>Full-Stack Wizardry 🧙</span>
-            // <div className="flex gap-3 text-sm">
-            //   <a href="#skills" className="text-white/80 hover:text-white">مهارت‌ها</a>
-            //   <a href="#faq" className="text-white/80 hover:text-white">پرسش | پاسخ</a>
-            //       <a href="#sample" className="text-white/80 hover:text-white">نمونه کار</a>
-            // </div>
+            <span className="font-bold tracking-tight text-white text-m">MhmdNsr<br/>Full-Stack Wizardry 🧙</
           </div>
         </div>
       </nav>
